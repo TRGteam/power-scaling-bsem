@@ -1,13 +1,13 @@
 # Bayesian SEM with Power-Scaling Prior Sensitivity Analysis
 
 This repository contains the replication code and scripts for the study:
-> **"Robust Bayesian Structural Equation Modeling with Power-Scaling Prior Sensitivity Analysis for Identifying Determinants of Child Stunting in Java, Indonesia"**
+> **"Prior Sensitivity Analysis in Bayesian SEM for Stunting Correlates: A Systematic Power-Scaling Framework"**
 
 ## Abstract
 This study contributes a practical framework for assessing parameter robustness in Bayesian Structural Equation Modeling (BSEM) using power-scaling prior sensitivity analysis ($\tau = 2.0, 1, 0.75, 0.50, 0.25$), validated through a Monte Carlo simulation study. Applied to 119 districts/cities in Java, Indonesia, using 2022 data, four latent constructs are modeled: Family Social Protection, Nutrition Consumption Promotion, Specific Nutrition Intervention, and Child Stunting.
 
 ## Data Availability
-Data are available from the corresponding author upon reasonable request.
+The data analysed in this study are publicly accessible through the Siperindu database (Population Control Early Warning Information System), managed by the Indonesian Ministry of Population and Family Development (Badan Kependudukan dan Keluarga Berencana Nasional [BKKBN]), and can be accessed at https://siperindu.online/dashboard/#indikator. The dataset covers the year 2025..
 
 ## Requirements
 - R (version 4.2 or higher)
