@@ -12,7 +12,7 @@ This repository contains the complete R code and outputs to replicate the analys
 * `LICENSE` - MIT License.
 
 ## How to Run
-1. Open the R scripts in RStudio (e.g., `01_analysis_empirical.R`).
+1. Open the R scripts in RStudio (e.g., `analysis rev6.R`).
 2. Install required packages: `blavaan`, `rstan`, `MASS`, `dplyr`, `tidyr`, `ggplot2`, `future`, `future.apply`, `readxl`, etc.
 3. Run the scripts line by line. Run `01` for the empirical analysis, and `02`/`03` for the simulations.
 
