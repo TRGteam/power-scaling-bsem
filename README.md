@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains the complete R code and outputs to replicate the analyses in the paper:
-"A Systematic Power-Scaling Framework for Prior Sensitivity in Small-Sample Bayesian SEM: Evidence from Stunting Correlates in Central Java"
+*"A Systematic Power-Scaling Framework for Prior Sensitivity in Small-Sample Bayesian SEM: Evidence from Stunting Correlates in Central Java"*
 
 ## Repository Structure
 * `analysis rev6.R` - Main R script for the empirical baseline model and power-scaling scenarios.
