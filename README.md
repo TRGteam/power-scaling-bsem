@@ -8,7 +8,7 @@ This repository contains the complete R code and outputs to replicate the analys
 * `analysis rev6.R` - Main R script for the empirical baseline model and power-scaling scenarios.
 * `simulation_v6c.R` - R script for the main simulation study (600 estimations).
 * `simulation_v7c_supplementer.R` - R script for the supplementary simulation study (300 estimations).
-* Figure 1 to Figure 10, and Figure S1 to Figure S3 - from the manuscript.
+* Figure 1 to Figure 5, and Figure S1 to Figure S5 - from the manuscript.
 * `LICENSE` - MIT License.
 
 ## How to Run
